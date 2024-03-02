@@ -49,7 +49,7 @@ dependencies {
 
 	modCompileOnly(files("wraith.deathscythe:deathscythe:${project.deathscythe_version}")) // PROBLEM HERE
   
-  modImplementation "dev.emi:trinkets:${trinkets_version}"
+  	modImplementation "dev.emi:trinkets:${trinkets_version}"
   
 	include(modImplementation "xyz.amymialee:mialeemisc:${project.mialeemisc_version}")
   
