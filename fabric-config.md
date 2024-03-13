@@ -1,4 +1,4 @@
-^ = Modmenu integration
+^ = Mod Menu integration / Provides Mod Menu support
 
 Gson 
 - Standard file-based config, built-in to fabric example mod 
@@ -39,3 +39,10 @@ YACL (Yet another config lib)^
 - https://modrinth.com/mod/yacl
 - https://github.com/isXander/YetAnotherConfigLib
 - GUI config library (client only)
+
+Oro Config^
+- https://github.com/OroArmorModding/Oro-Config
+
+Omega Config^
+- https://www.curseforge.com/minecraft/mc-mods/omega-config
+- https://github.com/Draylar/omega-config
