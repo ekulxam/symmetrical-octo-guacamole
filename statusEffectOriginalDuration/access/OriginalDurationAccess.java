@@ -1,4 +1,4 @@
-package com.samvolvo.learning.access;
+package survivalblock.originalduration.access;
 
 public interface OriginalDurationAccess {
 
