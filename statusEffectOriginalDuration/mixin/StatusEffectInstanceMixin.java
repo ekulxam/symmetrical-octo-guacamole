@@ -1,4 +1,4 @@
-package com.samvolvo.learning.mixin;
+package survivalblock.originalduration.mixin;
 
 import com.llamalad7.mixinextras.injector.ModifyReturnValue;
 import com.llamalad7.mixinextras.sugar.Share;
