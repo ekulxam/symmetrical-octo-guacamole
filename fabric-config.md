@@ -46,3 +46,17 @@ Oro Config^
 Omega Config^
 - https://www.curseforge.com/minecraft/mc-mods/omega-config
 - https://github.com/Draylar/omega-config
+
+Jankson
+- https://github.com/falkreon/Jankson
+- https://github.com/CottonMC/Jankson-Fabric
+- https://www.curseforge.com/minecraft/mc-mods/jankson
+
+Configurable
+- https://github.com/Bawnorton/Configurable
+- https://modrinth.com/mod/configurable
+
+FzzyConfig
+- https://github.com/fzzyhmstrs/fconfig
+- https://modrinth.com/mod/fzzy-config
+- https://www.curseforge.com/minecraft/mc-mods/fzzy-config
